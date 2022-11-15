@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 Simple tic-tac-toe game in python
 
-<img src="(https://github.com/shrin00/tic-tac-toe/blob/main/tic.png" style=" width:60px ; height:60px "  >
+![tic-tac-toe](https://github.com/shrin00/tic-tac-toe/blob/main/tic.png)
 
 ## Playing game
   This game is allows user to create there own game board by mentioning game size at the start of the game.
